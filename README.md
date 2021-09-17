@@ -8,3 +8,4 @@ Simply clone the repo on to your own machine using git clone <url>.git
   
 # The files
  
+There are three files in this repo. Each 
